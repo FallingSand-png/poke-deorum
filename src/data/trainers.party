@@ -9511,11 +9511,53 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon / Try To 2HKO
 
-Treecko
+Spiritomb (F)
+Ability: Pressure  
+Level: 3
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature   
+
+Budew (F)
+Ability: Poison Point  
+Level: 2
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Togepi (M)
+Ability: Serene Grace  
+Level: 2
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+
+Riolu (M)
+Ability: Inner Focus  
+Level: 3
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Feebas (F)
+Ability: Marvel Scale  
+Level: 4
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk   
+
+Gible (F)  
+Ability: Rough Skin  
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature   
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -9566,11 +9608,53 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: Basic Trainer / Ace Pokemon / Try To 2HKO
 
-Torchic
+Spiritomb (F)
+Ability: Pressure  
+Level: 3
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature   
+
+Budew (F)
+Ability: Poison Point  
+Level: 2
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Togepi (M)
+Ability: Serene Grace  
+Level: 2
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+
+Riolu (M)
+Ability: Inner Focus  
+Level: 3
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Feebas (F)
+Ability: Marvel Scale  
+Level: 4
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk   
+
+Gible (F)  
+Ability: Rough Skin  
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: BRENDAN
@@ -9621,11 +9705,53 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon / Try To 2HKO
 
-Mudkip
+Spiritomb (F)
+Ability: Pressure  
+Level: 3
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature   
+
+Budew (F)
+Ability: Poison Point  
+Level: 2
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Togepi (M)
+Ability: Serene Grace  
+Level: 2
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+
+Riolu (M)
+Ability: Inner Focus  
+Level: 3
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Feebas (F)
+Ability: Marvel Scale  
+Level: 4
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk   
+
+Gible (F)  
+Ability: Rough Skin  
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -9676,11 +9802,53 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon / Try To 2HKO
 
-Treecko
+Spiritomb (F)
+Ability: Pressure  
+Level: 3
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature   
+
+Budew (F)
+Ability: Poison Point  
+Level: 2
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Togepi (M)
+Ability: Serene Grace  
+Level: 2
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+
+Riolu (M)
+Ability: Inner Focus  
+Level: 3
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Feebas (F)
+Ability: Marvel Scale  
+Level: 4
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk   
+
+Gible (F)  
+Ability: Rough Skin  
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -9731,11 +9899,53 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon / Try To 2HKO
 
-Torchic
+Spiritomb (F)
+Ability: Pressure  
+Level: 3
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature   
+
+Budew (F)
+Ability: Poison Point  
+Level: 2
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Togepi (M)
+Ability: Serene Grace  
+Level: 2
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+
+Riolu (M)
+Ability: Inner Focus  
+Level: 3
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Feebas (F)
+Ability: Marvel Scale  
+Level: 4
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk   
+
+Gible (F)  
+Ability: Rough Skin  
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -9786,11 +9996,53 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Basic Trainer / Ace Pokemon / Try To 2HKO
 
-Mudkip
+Spiritomb (F)
+Ability: Pressure  
+Level: 3
+Tera Type: Ghost  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature   
+
+Budew (F)
+Ability: Poison Point  
+Level: 2
+Tera Type: Grass  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Togepi (M)
+Ability: Serene Grace  
+Level: 2
+Tera Type: Fairy  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+
+Riolu (M)
+Ability: Inner Focus  
+Level: 3
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk   
+
+Feebas (F)
+Ability: Marvel Scale  
+Level: 4
+Tera Type: Water  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk   
+
+Gible (F)  
+Ability: Rough Skin  
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tera Type: Dragon  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY
